@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [kylechristian.netlify.app](kylechristian.netlify.app)
+- 👨‍💻 All of my projects are available at [https://kylechristian.netlify.app/](kylechristian.netlify.app)
 
 - 📫 How to reach me **kylechristiandev@proton.me**
 
